@@ -1,4 +1,5 @@
 # Fixa Tecnica de el lol
+
 ## Esta es la fixa tecnica definitiva de lol
 
 |Personajes | Roles | Rangos |
@@ -11,7 +12,7 @@
 
 | Zed       | Dps     | No Rank|
 
-**lista de jugadores**
+**Lista de jugadores**
 
 - *Joel27*
 - *MarcGamer65*
