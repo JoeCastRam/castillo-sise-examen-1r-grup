@@ -5,3 +5,8 @@
 | Milio     | Support | Gold |
 | Sion      | Tank    | Bronze|
 | Zed       | Dps     | No Rank|
+
+**lista de jugadores**
+- *Joel27*
+- *MarcGamer65*
+- *NicoELPro*
