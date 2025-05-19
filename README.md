@@ -16,11 +16,11 @@
 
 **Ranking de jugadores**
 
-1 *MarcGamer65*
+1. *MarcGamer65*
 
-1 *NicoELPro*
+1. *NicoELPro*
 
-1 *Joel27*
+1. *Joel27*
 
 ![lol](Capture001.png)
 
