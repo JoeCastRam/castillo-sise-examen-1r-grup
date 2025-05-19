@@ -3,7 +3,7 @@
 
 |Personajes | Roles | Rangos |
 
-|----------------------------|
+|-----------|-------|--------|
 
 | Milio     | Support | Gold |
 
